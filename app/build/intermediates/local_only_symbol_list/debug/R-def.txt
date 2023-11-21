@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+drawable sora
+drawable sora2
+id button
+id button2
+id button3
+id edit_contra_registro
+id edit_contraseña
+id edit_correo
+id edit_mail_registro
+id imageView
+id imageView2
+id imageView3
+id img_login
+id textView
+id textView2
+layout activity_barajas
+layout activity_main
+layout activity_registro
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Siul_LeunaM
+style Theme.Siul_LeunaM
+xml backup_rules
+xml data_extraction_rules
