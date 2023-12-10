@@ -24,6 +24,10 @@
         "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\drawable_eliminar.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\drawable\\eliminar.xml"
+    },
+    {
         "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-anydpi_ic_launcher.xml.flat",
         "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
     },
@@ -50,10 +54,6 @@
     {
         "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/drawable_eliminar.xml.flat",
-        "source": "com.example.siul_leunam.app-main-6:/drawable/eliminar.xml"
     },
     {
         "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
