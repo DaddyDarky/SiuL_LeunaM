@@ -26,8 +26,8 @@
         android:id="@+id/tv_claseNikke"
         android:layout_width="194dp"
         android:layout_height="34dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="44dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="36dp"
         android:text="TextView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_nombreNikke" />
@@ -37,11 +37,11 @@
         android:layout_width="139dp"
         android:layout_height="21dp"
         android:layout_marginStart="84dp"
-        android:layout_marginTop="128dp"
+        android:layout_marginTop="28dp"
         android:layout_marginEnd="120dp"
         android:text="TextView"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.365"
+        app:layout_constraintHorizontal_bias="0.402"
         app:layout_constraintStart_toEndOf="@+id/iv_fotoNikke"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

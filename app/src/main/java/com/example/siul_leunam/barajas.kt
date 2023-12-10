@@ -5,23 +5,27 @@ import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.siul_leunam.adapter.WaifuNikkeAdapter
+import com.example.siul_leunam.databinding.ActivityBarajasBinding
+import com.example.siul_leunam.databinding.ActivityMainBinding
 
 
 class barajas : AppCompatActivity() {
 
-
+    private  lateinit var binding: ActivityBarajasBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //WaifuNikkeProvider.waifuNikkeList
+        binding = ActivityBarajasBinding.inflate(layoutInflater)
+        setContentView(binding.root)
+        //setContentView(R.layout.activity_barajas)
         iniciarRecyclerView()
-        setContentView(R.layout.activity_barajas)
     }
 
     private fun iniciarRecyclerView(){
-        val miRecyclerView = findViewById<RecyclerView>(R.id.waifusNikke)
-        miRecyclerView.layoutManager= LinearLayoutManager(this)
-        miRecyclerView.adapter = WaifuNikkeAdapter(WaifuNikkeProvider.waifuNikkeList)
+
+        //val miRecyclerView = findViewById<RecyclerView>(R.id.waifusNikke)
+        binding.waifusNikke.layoutManager= LinearLayoutManager(this)
+        binding.waifusNikke.adapter = WaifuNikkeAdapter(WaifuNikkeProvider.waifuNikkeList)
     }
 
 }

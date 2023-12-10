@@ -15,7 +15,7 @@ class WaifuNikkeProvider {
             WaifuNikke("Noire",
                 "Escopeta",
                 "Atacante",
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnikke.gg%2Fcharacters%2Fnoir%2F&psig=AOvVaw1RlGPuafiEJldb2TGVTxQx&ust=1702289098414000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDOn5zPhIMDFQAAAAAdAAAAABAD"
+                "https://danbooru.donmai.us/posts/6335357?q=noir_%28nikke%29"
             ), WaifuNikke("Nihilister",
                 "Sniper",
                 "Atacante",
