@@ -2,6 +2,7 @@ package com.example.siul_leunam
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.siul_leunam.adapter.WaifuNikkeAdapter
@@ -25,7 +26,15 @@ class barajas : AppCompatActivity() {
 
         //val miRecyclerView = findViewById<RecyclerView>(R.id.waifusNikke)
         binding.waifusNikke.layoutManager= LinearLayoutManager(this)
-        binding.waifusNikke.adapter = WaifuNikkeAdapter(WaifuNikkeProvider.waifuNikkeList)
+        binding.waifusNikke.adapter = WaifuNikkeAdapter(WaifuNikkeProvider.waifuNikkeList) { waifuNikke ->
+            onItemSelected(
+                waifuNikke
+            )
+        }
+    }
+
+    fun onItemSelected(waifuNikke: WaifuNikke){
+        Toast.makeText(this,waifuNikke.nikke,Toast.LENGTH_SHORT).show()
     }
 
 }

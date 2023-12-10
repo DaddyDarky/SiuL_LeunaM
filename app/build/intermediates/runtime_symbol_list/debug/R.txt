@@ -2951,6 +2951,7 @@ int drawable design_ic_visibility 0x7f070083
 int drawable design_ic_visibility_off 0x7f070084
 int drawable design_password_eye 0x7f070085
 int drawable design_snackbar_background 0x7f070086
+int drawable eliminar 0x7f0700e3
 int drawable ic_arrow_back_black_24 0x7f070087
 int drawable ic_clear_black_24 0x7f070088
 int drawable ic_clock_black_24dp 0x7f070089
@@ -3280,6 +3281,7 @@ int id invisible 0x7f0800e8
 int id inward 0x7f0800e9
 int id italic 0x7f0800ea
 int id item_touch_helper_previous_elevation 0x7f0800eb
+int id iv_eliminarNikke 0x7f080200
 int id iv_fotoNikke 0x7f0800ec
 int id jumpToEnd 0x7f0800ed
 int id jumpToStart 0x7f0800ee

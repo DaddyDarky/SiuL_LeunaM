@@ -2952,6 +2952,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable eliminar
 drawable ic_arrow_back_black_24
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
@@ -3281,6 +3282,7 @@ id invisible
 id inward
 id italic
 id item_touch_helper_previous_elevation
+id iv_eliminarNikke
 id iv_fotoNikke
 id jumpToEnd
 id jumpToStart

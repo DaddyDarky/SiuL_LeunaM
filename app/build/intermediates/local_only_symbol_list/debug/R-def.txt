@@ -2,6 +2,7 @@ R_DEF: Internal format may change without notice
 local
 color black
 color white
+drawable eliminar
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable logo
@@ -17,6 +18,7 @@ id edit_mail_registro
 id imageView2
 id imageView3
 id img_login
+id iv_eliminarNikke
 id iv_fotoNikke
 id textView
 id textView2

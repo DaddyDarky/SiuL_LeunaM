@@ -44,4 +44,12 @@
         app:layout_constraintHorizontal_bias="0.402"
         app:layout_constraintStart_toEndOf="@+id/iv_fotoNikke"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/iv_eliminarNikke"
+        android:layout_width="51dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/eliminar" />
 </androidx.constraintlayout.widget.ConstraintLayout>

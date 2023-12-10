@@ -1,94 +1,102 @@
 [
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.siul_leunam.app-main-6:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\layout_activity_barajas.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\layout\\activity_barajas.xml"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/layout_activity_registro.xml.flat",
-        "source": "com.example.siul_leunam.app-main-6:/layout/activity_registro.xml"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.siul_leunam.app-main-6:/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/xml_backup_rules.xml.flat",
-        "source": "com.example.siul_leunam.app-main-6:/xml/backup_rules.xml"
-    },
-    {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/drawable_sora.png.flat",
-        "source": "com.example.siul_leunam.app-main-6:/drawable/sora.png"
-    },
-    {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/drawable_sora2.png.flat",
-        "source": "com.example.siul_leunam.app-main-6:/drawable/sora2.png"
-    },
-    {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-anydpi/ic_launcher_round.xml"
-    },
-    {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/layout_activity_main.xml.flat",
-        "source": "com.example.siul_leunam.app-main-6:/layout/activity_main.xml"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\layout\\activity_registro.xml"
     },
     {
         "merged": "com.example.siul_leunam.app-merged_res-4:/layout_item_waifunikke.xml.flat",
         "source": "com.example.siul_leunam.app-main-6:/layout/item_waifunikke.xml"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.siul_leunam.app-main-6:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/layout_activity_barajas.xml.flat",
-        "source": "com.example.siul_leunam.app-main-6:/layout/activity_barajas.xml"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/drawable_logo.png.flat",
-        "source": "com.example.siul_leunam.app-main-6:/drawable/logo.png"
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.siul_leunam.app-merged_res-4:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.example.siul_leunam.app-main-6:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "com.example.siul_leunam.app-merged_res-4:/drawable_eliminar.xml.flat",
+        "source": "com.example.siul_leunam.app-main-6:/drawable/eliminar.xml"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\drawable_sora.png.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\drawable\\sora.png"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\layout_item_waifunikke.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\layout\\item_waifunikke.xml"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\drawable_sora2.png.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\drawable\\sora2.png"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\drawable\\logo.png"
     }
 ]
