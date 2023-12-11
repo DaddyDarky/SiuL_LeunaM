@@ -32,12 +32,20 @@
         "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
+        "merged": "com.example.siul_leunam.app-merged_res-4:/drawable_anadir.xml.flat",
+        "source": "com.example.siul_leunam.app-main-6:/drawable/anadir.xml"
+    },
+    {
         "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\layout_activity_registro.xml.flat",
         "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\layout\\activity_registro.xml"
     },
     {
         "merged": "com.example.siul_leunam.app-merged_res-4:/layout_item_waifunikke.xml.flat",
         "source": "com.example.siul_leunam.app-main-6:/layout/item_waifunikke.xml"
+    },
+    {
+        "merged": "com.example.siul_leunam.app-merged_res-4:/layout_activity_barajas.xml.flat",
+        "source": "com.example.siul_leunam.app-main-6:/layout/activity_barajas.xml"
     },
     {
         "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -98,5 +106,9 @@
     {
         "merged": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-merged_res-4:\\drawable_logo.png.flat",
         "source": "C:\\Users\\34697\\.gradle\\daemon\\8.0\\com.example.siul_leunam.app-main-6:\\drawable\\logo.png"
+    },
+    {
+        "merged": "com.example.siul_leunam.app-merged_res-4:/drawable_actualizar.xml.flat",
+        "source": "com.example.siul_leunam.app-main-6:/drawable/actualizar.xml"
     }
 ]

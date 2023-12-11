@@ -8,7 +8,8 @@ import com.example.siul_leunam.WaifuNikke
 
 class WaifuNikkeAdapter(private val nikkeList:List<WaifuNikke>,
                         private val onClickListener:(WaifuNikke)->Unit,
-                        private val onClickDelete:(Int)-> Unit
+                        private val onClickDelete:(Int)-> Unit,
+                        private val onClickActu:(Int) ->Unit
 ): RecyclerView.Adapter<WaifuNikkeViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): WaifuNikkeViewHolder {
         val layoutInflater = LayoutInflater.from(parent.context)

@@ -2937,6 +2937,8 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable actualizar
+drawable anadir
 drawable avd_hide_password
 drawable avd_show_password
 drawable btn_checkbox_checked_mtrl
@@ -3282,6 +3284,8 @@ id invisible
 id inward
 id italic
 id item_touch_helper_previous_elevation
+id iv_actualizar
+id iv_anadir
 id iv_eliminarNikke
 id iv_fotoNikke
 id jumpToEnd

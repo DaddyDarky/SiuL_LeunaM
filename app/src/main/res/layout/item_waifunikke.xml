@@ -9,10 +9,9 @@
         android:id="@+id/iv_fotoNikke"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
         android:background="@color/black"
-        />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/tv_nombreNikke"
@@ -28,8 +27,8 @@
         android:id="@+id/tv_claseNikke"
         android:layout_width="194dp"
         android:layout_height="34dp"
-        android:layout_marginTop="44dp"
-        android:layout_marginEnd="36dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="40dp"
         android:text="TextView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_nombreNikke" />
@@ -54,4 +53,14 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/eliminar" />
+
+    <ImageView
+        android:id="@+id/iv_actualizar"
+        android:layout_width="54dp"
+        android:layout_height="42dp"
+        android:layout_marginEnd="208dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/iv_fotoNikke"
+        app:srcCompat="@drawable/actualizar" />
 </androidx.constraintlayout.widget.ConstraintLayout>

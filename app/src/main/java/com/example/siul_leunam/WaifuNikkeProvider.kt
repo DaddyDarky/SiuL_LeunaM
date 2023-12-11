@@ -19,7 +19,7 @@ class WaifuNikkeProvider {
             ), WaifuNikke("Nihilister",
                 "Sniper",
                 "Atacante",
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FNikkeMobile%2Fcomments%2F14fr6yy%2Fthoughts_on_nihilister%2F&psig=AOvVaw21RJfJV5VCLxqDZZ1RZGvk&ust=1702289187946000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCM_cbPhIMDFQAAAAAdAAAAABAw")
+                "https://imgur.com/gallery/a79rowQ")
         )
     }
 }

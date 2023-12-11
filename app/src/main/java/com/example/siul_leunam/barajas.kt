@@ -14,25 +14,44 @@ class barajas : AppCompatActivity() {
     private  lateinit var binding: ActivityBarajasBinding
     private var waifuNikkeMutableList:MutableList<WaifuNikke> = WaifuNikkeProvider.waifuNikkeList.toMutableList()
     private lateinit var adapter: WaifuNikkeAdapter
+    private val llamaner = LinearLayoutManager(this)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityBarajasBinding.inflate(layoutInflater)
         setContentView(binding.root)
         //setContentView(R.layout.activity_barajas)
+        binding.ivAnadir.setOnClickListener{createWaifuNikke()}
         iniciarRecyclerView()
+    }
+
+
+
+    private fun createWaifuNikke(){
+        val waifuNikke = WaifuNikke("?",
+            "?",
+            "?",
+            "?")
+        waifuNikkeMutableList.add(waifuNikke)
+        adapter.notifyItemInserted(waifuNikkeMutableList.size-1)
+        llamaner.scrollToPositionWithOffset(waifuNikkeMutableList.size-1,20)
     }
 
     private fun iniciarRecyclerView(){
         adapter = WaifuNikkeAdapter(nikkeList = waifuNikkeMutableList,
                                     onClickListener = {waifuNikke -> onItemSelected(waifuNikke)},
-                                    onClickDelete = {position -> onDeleteItem(position)}
+                                    onClickDelete = {position -> onDeleteItem(position)},
+                                    onClickActu = {position ->onActuItem(position)}
         )
 
         val manejador = LinearLayoutManager(this)
         //val decoration = DividerItemDecoration(this,manejador.orientation)
-        binding.waifusNikke.layoutManager = manejador;
+        binding.waifusNikke.layoutManager = llamaner;
         binding.waifusNikke.adapter=adapter
+
+    }
+
+    private fun onActuItem(position: Int) {
 
     }
 
